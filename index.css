@@ -1,0 +1,49 @@
+.hidden {
+    visibility: hidden;
+}
+
+.navbar {
+    background-color: #ff5733 !important;
+}
+
+.navbar-brand {
+    color: #fff;
+}
+
+.nav-link {
+    color: #fff !important;
+}
+
+.content {
+    display: none;
+}
+
+.card {
+    background-color: #ffcc00;
+    color: #333
+}
+
+.card h2,
+.card p {
+  color: #666;
+}
+
+.input-group {
+    margin-bottom: 20px;
+}
+
+.btn-outline-secondary {
+    color: #ff5733;
+    border-color: #ff5733;
+}
+
+.btn-outline-secondary:hover {
+    color: #fff;
+    background-color: #ff5733;
+    border-color: #ff5733;
+}
+
+.alert {
+    background-color: #ff3333;
+    color: #fff;
+}
